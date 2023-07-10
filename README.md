@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @benowe1717
 - 👀 I’m interested in Networking, Network Security, Linux, BASH, PHP, Python, and General Troubleshooting!
-- 🌱 I’m currently learning Capture the Flag games from PicoCTF through John Hammond's videos...
 - 📫 How to reach me ...
 
 Email: benjamin@projecttiy.com  
